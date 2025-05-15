@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "firstName": "Stu",
+    "lastName": "Dent",
+    "username": "student",
+    "avatar": "https://robohash.org/veniamdoloresenim.png?size=64x64&set=set1",
+    "salt": "926298c2468382abd608d119a347fa42",
+    "password": "8d9a90acdccb1b7dc5b9f5dd2315a98135ee26c881a79cf688e4f6983fb217d06fc4c1eef16cddc82ae120814697c80365fb55eea8bb1091c243968c28d5b2e6"
+  }
+  ,{
+    "id": 3,
+    "firstName": "Vassily",
+    "lastname": "Yeskov",
+    "username": "vyeskov2",
+    "avatar": "https://robohash.org/teneturlaborenon.png?size=64x64&set=set1",
+    "salt": "4255931b67bcfb4d70917510f4e55f4d",
+    "password": "ac04e463ad1f2a28c4d804cfea1f58097d4e7cec3f4d94cc16b4cd5e82675b5b044072dc8f357a4c099976bfc18f9b679fd6168ad28e1754714b19f35b62fa26"
+
+  },
+  {
+    "id": 4,
+    "firstName": "Freida",
+    "lastName": "Halbert",
+    "username": "fhalbert3",
+    "avatar": "https://robohash.org/hicetminus.png?size=64x64&set=set1",
+    "salt": "e29fca9bc3a8737939055f2e27757b5c",
+    "password": "13ac49ed97ccb079bc890280ab364bbd6be7e01564808eba16a7073531e9d7457d875ea6907981a363797e5c4426b42e41d20e0191042953c00a1e749c42bc93"
+
+  },
+  {
+    "id": 5,
+    "firstName": "Gloria",
+    "lastName": "Macconaghy",
+    "username": "gmacconaghy4",
+    "avatar": "https://robohash.org/teneturevenietfacere.png?size=64x64&set=set1",
+    "salt": "7be8b4633730be27c33ee8ce2935b035",
+    "password": "629ca4233e74140dabdbcb1d6a8d2b23bcb5019b781d3ac0388fba151776e3315b2e1acda23a0f98eee0a8a82449a91c120ec4e333ce4aca38041da3cbe41c65"
+
+  },
+  {
+    "id": 6,
+    "firstName": "Mariam",
+    "lastName": "Tweede",
+    "username": "mtweede5",
+    "avatar": "https://robohash.org/impeditipsaet.png?size=64x64&set=set1",
+    "salt": "d53783d459381ccac8a7551bb160006c",
+    "password": "aefae1dfa14cfc904943371e25977745320a1e921a333af19fcd1626bb8dc430bf2f2b7f0118e8b052524d3ed470a4afaa7a858e57a2aecd14708269571c501c"
+
+  }
+
+]
